@@ -13,8 +13,8 @@ using orbital parameters and geomagnetic activity data.
 ---
 
 ## Approach
-Six years of Two-Line Element (TLE) data of LEO satellites operated by Planet, from [Space-Track](https://www.space-track.org)
-were combined with geomagnetic and solar activity indices obtained from GFZ Helmholtz Center for Geosciences, to model how space
+Six years of Two-Line Element (TLE) data of LEO satellites operated by [Planet](https://www.planet.com/), from [Space-Track](https://www.space-track.org)
+were combined with geomagnetic and solar activity indices obtained from [GFZ Helmholtz Center for Geosciences](https://kp.gfz.de/en/data), to model how space
 weather impacts satellite lifetimes.
 
 
